@@ -22,6 +22,6 @@ public class SpanOfArray {
         int span = max - min;
         System.out.println(min);
         System.out.println(max);
-        System.out.println(span);
+        System.out.println("Span of array is"+span);
     }
 }
